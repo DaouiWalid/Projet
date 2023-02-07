@@ -1,0 +1,2 @@
+double getDistance();
+void initPin();
